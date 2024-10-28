@@ -1,0 +1,7 @@
+[
+  { "regno": "101", "name": "John Doe", "branch": "CSE" },
+  { "regno": "102", "name": "Jane Smith", "branch": "ECE" },
+  { "regno": "103", "name": "Alice Johnson", "branch": "MECH" },
+  { "regno": "104", "name": "Bob Brown", "branch": "M.Tech" },
+  { "regno": "105", "name": "Charlie Davis", "branch": "CSE" }
+]

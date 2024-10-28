@@ -1,0 +1,30 @@
+/* src/styles/SeatingPlan.css */
+.seating-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.seat {
+  background-color: #e0f7fa;
+  padding: 10px;
+  border: 2px solid #00796b;
+  border-radius: 8px;
+  text-align: center;
+}
+/* src/styles/SeatingPlan.css */
+.seating-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.seat {
+  background-color: #e0f7fa;
+  padding: 10px;
+  border: 2px solid #00796b;
+  border-radius: 8px;
+  text-align: center;
+}

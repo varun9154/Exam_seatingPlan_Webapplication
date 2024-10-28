@@ -1,0 +1,16 @@
+{
+  "universities": [
+    { "id": 1, "name": "University A" },
+    { "id": 2, "name": "University B" },
+    { "id": 3, "name": "University C" },
+    { "id": 4, "name": "University D" },
+    { "id": 5, "name": "University E" }
+  ],
+  "students": [
+    { "regno": "101", "name": "John Doe", "branch": "CSE" },
+    { "regno": "102", "name": "Jane Smith", "branch": "ECE" },
+    { "regno": "103", "name": "Alice Johnson", "branch": "MECH" },
+    { "regno": "104", "name": "Bob Brown", "branch": "M.Tech" },
+    { "regno": "105", "name": "Charlie Davis", "branch": "CSE" }
+  ]
+}
